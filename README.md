@@ -27,6 +27,10 @@ El proyecto se desarrolló en tres etapas, todas incluidas en el notebook acumul
 - Fuente: [kaggle.com/datasets/uciml/breast-cancer-wisconsin-data](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - Copia local: [`data/data.csv`](data/data.csv)
 
+## Video
+
+[Ver la presentación del proyecto en YouTube](https://www.youtube.com/watch?v=moRvaEiY46E)
+
 ## Contenido del repositorio
 
 | Archivo | Descripción |
